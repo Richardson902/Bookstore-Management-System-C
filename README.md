@@ -17,11 +17,13 @@ This project implements a simple Book Management System in C. It allows users to
 
 To compile the program, use the following command:
 ```bash
-gcc main.c book.c -o book_management_system```
+gcc main.c book.c -o book_management_system
+```
 
 To run the program, execute the compiled binary:
 ```bash
-./book_management_system```
+./book_management_system
+```
 
 ## Usage
 
