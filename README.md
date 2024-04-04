@@ -22,7 +22,7 @@ gcc main.c book.c -o book_management_system
 
 To run the program, execute the compiled binary:
 ```bash
-./book_management_system
+book_management_system
 ```
 
 ## Usage
